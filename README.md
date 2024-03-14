@@ -5,5 +5,5 @@ Simple tool to extract useful information about iOS application (name, package a
 Usage:
 
 ```bash
-./extract_plistinfo <Info.plist>
+./dist/extract_plistinfo/extract_plistinfo <Info.plist>
 ```
